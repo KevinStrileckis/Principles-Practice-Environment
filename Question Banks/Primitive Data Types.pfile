@@ -1,0 +1,36 @@
+4int x = 2;\nint y = 3; \nint z = y;\nx++;\nz += x;\nWhat does z equal at the end of this block of code?
+12
+F
+6
+T
+2
+F
+10
+F
+3int x = 12;\nint y = 5; \ny = x / y;\nWhat does y equal at the end of this block of code?
+5
+F
+2
+T
+2.4
+F
+4Given the below code, select all of the boolean variables now equal to true:\nboolean ans1 = false; \nboolean ans2 = ans1; \nboolean ans3 = !ans1; \nboolean ans4 = (ans2 || ans3);
+ans1
+F
+ans2
+F
+ans3
+T
+ans4
+T
+5Select all of the following which are valid in Java:
+int i = j; // j is an integer
+T
+int i = j; // j is a double
+F
+double i = j; // j is an integer
+T
+int i = j; // j is a String
+F
+String i = j; // j is a String
+T

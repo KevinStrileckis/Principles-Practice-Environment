@@ -1,0 +1,43 @@
+**""**2.0
+Vocabulary Week 4
+
+
+%&Metadata - data that describes other data
+%&
+%&Visualization - a way to show data, typically obscuring some aspect of it
+%&
+%&Big data - a vast quantity of data, perhaps gained through continuous harvesting or by digitizing large amounts of information
+
+$TOPMetadata - data that describes other dataVisualization - a way to show data, typically obscuring some aspect of itBig data - a vast quantity of data, perhaps gained through continuous harvesting or by digitizing large amounts of information $#
+
+%&So the address on a letter might considered what? (capitalize the first letter)
+
+$TOPMetadata $#**showprev**
+
+%&And what do we call a corpus of every book every written? Capitalize the first letter
+
+$TOPBig data $#
+
+
+
+%&Lower-level code - machine code written in binary that can be read by a computer
+%&
+%&Upper-level code - code written in something similar to human speech that can be read by a human
+%&
+%&Byte - 8 bits
+%&Bit - one binary digit
+%&
+%&x = 1 in Pseudocode - x<-1
+%&Procedure - a section of code that completes some task. It can be repeatedly "called" in the program
+
+$TOPLower-level code - machine code written in binary that can be read by a computerUpper-level code - code written in something similar to human speech that can be read by a humanByte - 8 bitsBit - one binary digitx = 1 in Pseudocode - x<-1Procedure - a section of code that completes some task. It can be repeatedly "called" in the program $#
+
+
+
+
+
+%&Moore's Law - the observation that our technological abilities in general have doubled every year since the invention of transistors
+%&Intellectual property - something that is created by you; may or may not have a patent
+
+$TOPMoore's Law - the observation that our technological abilities in general have doubled every year since the invention of transistorsIntellectual property - something that is created by you; may or may not have a patent $#
+

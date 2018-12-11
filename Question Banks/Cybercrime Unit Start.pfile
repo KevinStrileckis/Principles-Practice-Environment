@@ -1,0 +1,61 @@
+2Finish this sentence: Encryption...
+Involves making data readable
+F
+Involves making data difficult to read
+T
+3Select all of the following which are true
+There are hardware, software, and human components of cybersecurity
+T
+The trust model of the Internet ensures total security
+F
+The Internet is designed so that more systems and devices can be easily added
+T
+2Which one of the following is the most common kind of encryption used online?
+Public key
+T
+Symmetric
+F
+4Which of the following are software components of cybersecurity?
+Secure passwords
+F
+Antivirus
+T
+Protections built into the CPU
+F
+Security questions
+F
+4Select the two parts of a public key encryption.
+A public key code that anyone can use for decrypting information
+F
+A public key code that anyone can use for encrypting information
+T
+A private key code that anyone can use for encrypting information
+F
+A private key code that anyone can use for decrypting information
+T
+2What is a good definition of the trust model of encryption?
+A system of security in which computers trust packets from sources that are trusted by other computers
+T
+A system of security in which packets from sources that have previously been trusted continue to be trusted
+F
+2Does the public key encryption model that we use also use the trust model?
+Yes
+T
+No
+F
+3What is the name of a computer which has the authority to declare packets as "trustworthy?"
+Certificate authority
+T
+Cache authority
+F
+Socket authority
+F
+4Which two of the following options are true?
+Due to the rise of cyberwarfare, countries with less resources will have a greater impact on our everyday lives
+T
+Due to the decline of cyberwarfare, differences between countries will become more pronounced
+F
+The sources of cyber attacks will become increasingly difficult to identify
+T
+Cybercrime and cyberwarfare is unlikely to affect us in any great way
+F

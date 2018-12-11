@@ -1,0 +1,14 @@
+3Select all code segments that would work for a program that categorizes based on the following conditions: if the age read in is twenty or more, the person is "Full adult"; thirteen through eighteen would be "teenager"; any less than this is "Child".
+<html>if(age >= 20)<br />&nbsp;&nbsp;&nbsp;category = "Full adult";<br />if(age >= 13)<br />&nbsp;&nbsp;&nbsp;category = "teenager";<br />else<br />&nbsp;&nbsp;&nbsp;category = "Child";</html>
+F
+<html>if(age >= 20)<br />&nbsp;&nbsp;&nbsp;category = "Full adult";<br />else if(age >= 13)<br />&nbsp;&nbsp;&nbsp;category = "teenager";<br />else<br />&nbsp;&nbsp;&nbsp;category = "Child";</html>
+T
+<html>if(age >= 0)<br />&nbsp;&nbsp;&nbsp;category = "Child");<br />if(age >= 13)<br />&nbsp;&nbsp;&nbsp;category = "teenager";<br />if(age >= 20)<br />&nbsp;&nbsp;&nbsp;category = "Full adult";</html>
+T
+3What is the output of the following code?\nString  str = "How do you do?";\nint  index = str.indexOf("o");\nwhile(index >= 0) {\n     System.out.print(index + " ");\n     s = s.substring(index + 1);\n     index = s.indexOf("o");\n}
+1 3 2 3
+T
+2 4 3 4
+F
+No output because of an IndexOutOfBoundsException
+F
